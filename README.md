@@ -1,4 +1,4 @@
-![wakanao's GitHub stats](https://github-readme-stats.vercel.app/api?username=naokiwakata&show_icons=true&hide=contribs&theme=gruvbox)
+![wakanao's GitHub stats](https://github-readme-stats.vercel.app/api?username=naokiwakata&show_icons=true&hide=contribs&theme=gruvbox&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naokiwakata&theme=dark_lover)](https://github.com/naokiwakata/github-profile-trophy)
 
