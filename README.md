@@ -6,5 +6,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=naokiwakata&theme=dark_lover&title=MultiLanguage,Joined2020,Commit,PullRequest,Repositories,Issues)](https://github.com/naokiwakata/github-profile-trophy)
 
 ![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naokiwakata&theme=gruvbox)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naokiwakata&" alt="naokiwakata" /></p>
