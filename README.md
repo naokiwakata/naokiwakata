@@ -4,7 +4,7 @@
   <a href="https://github.com/naokiwakata/naokiwakata/">
     <img src="https://komarev.com/ghpvc/?username=naokiwakata" alt="naokiwakata" />
   </a>
-  <a href="http://twitter.com/naokiwakata">
+  <a href="http://twitter.com/wakanao_banana">
     <img height="20" src="https://img.shields.io/twitter/follow/naokiwakata?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/naokiwakata">
