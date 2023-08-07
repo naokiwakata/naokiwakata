@@ -10,8 +10,6 @@
   <a href="https://github.com/naokiwakata">
     <img height="20" src="https://img.shields.io/github/followers/naokiwakata?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/naokiwakata">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   <a href="http://qiita.com/naokiwakata">
     <img height="20" src="https://qiita-badge.apiapi.app/s/naokiwakata/posts.svg" />
