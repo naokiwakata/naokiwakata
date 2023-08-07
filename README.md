@@ -1,4 +1,9 @@
-![wakanao's GitHub stats](https://github-readme-stats.vercel.app/api?username=naokiwakata&show_icons=true&hide=contribs&theme=merko)
+![wakanao's GitHub stats](https://github-readme-stats.vercel.app/api?username=naokiwakata&show_icons=true&hide=contribs&theme=gruvbox)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=naokiwakata&theme=dark_lover)](https://github.com/naokiwakata/github-profile-trophy)
+
+![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naokiwakata&theme=gruvbox)
+
 
 <p align="left">
   <a href="https://github.com/naokiwakata/naokiwakata/">
