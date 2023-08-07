@@ -6,3 +6,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=naokiwakata&theme=dark_lover&title=MultiLanguage,Joined2020,Commit,PullRequest,Repositories,Issues)](https://github.com/naokiwakata/github-profile-trophy)
 
 ![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naokiwakata&theme=gruvbox)
+
+### Zenn Contributions
+[![Likes](https://badgen.org/img/zenn/naokiwakata/likes?style=plastic)](https://zenn.dev/naokiwakata)
+[![Followers](https://badgen.org/img/zenn/naokiwakata/followers?style=plastic)](https://zenn.dev/naokiwakata)
+[![Articles](https://badgen.org/img/zenn/naokiwakata/articles?style=plastic)](https://zenn.dev/naokiwakata)
