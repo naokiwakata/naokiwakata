@@ -11,10 +11,4 @@
     <img height="20" src="https://img.shields.io/github/followers/naokiwakata?label=follow&logo=github&style=flat" />
   </a>
   </a>
-  <a href="http://qiita.com/naokiwakata">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/naokiwakata/posts.svg" />
-  </a>
-  <//qiita.com/naokiwakata">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/naokiwakata/contributions.svg" />
-  </a>
 </p>
